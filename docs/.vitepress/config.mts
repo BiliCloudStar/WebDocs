@@ -5,7 +5,7 @@ export default defineConfig({
   title: "MineLarx Docs",
   description: "基于服务器的详细文档",
   themeConfig: {
-    logo: '/img/logo.svg',
+    logo: './img/logo.png',
     siteTitle: '',
     
     //大目录
