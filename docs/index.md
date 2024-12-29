@@ -6,7 +6,7 @@ hero:
   text: "基于服务器的详细文档"
   tagline:
   image:
-    src: ./img/icon.png
+    src: /icon.png
     alt: icons 
   actions:
     - theme: brand
